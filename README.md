@@ -1,6 +1,9 @@
 # Yes-Bank-Stock-Price-Prediction-Project
+
 Project Type - Regression
+
 Contribution - Individual
+
 Name - Aditya Singh
 
 Project Summary -
